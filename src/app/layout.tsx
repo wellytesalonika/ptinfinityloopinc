@@ -51,6 +51,9 @@ export const metadata: Metadata = {
     description: "Solusi perdagangan profesional dengan standar tertinggi.",
     images: ["/logo.png"],
   },
+  other: {
+    "facebook-domain-verification": "90e15l1rpo2n0r6cf3obwt0chy8yeg",
+  },
 };
 
 export default function RootLayout({
