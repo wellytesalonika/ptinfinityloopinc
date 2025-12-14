@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     images: ["/logo.png"],
   },
   other: {
-    "facebook-domain-verification": "90e15l1rpo2n0r6cf3obwt0chy8yeg",
+    "facebook-domain-verification": "a0pvj1axrzm82n6bcgvc9k1xb5ql20",
   },
 };
 
